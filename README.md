@@ -7,7 +7,7 @@ This study quantifies the economic impact of energy-related curtailment on a Bra
 
 The objective is not to advocate cost transfer to consumers, but to measure economic exposure associated with non-controllable operational restrictions and translate it into a risk premium framework.
 
-Data Sources
+# Data Sources
 
 The analysis is based on publicly available 2025 operational and market data from:
 
@@ -25,7 +25,7 @@ Submarket: Northeast (NE)
 
 PLD hourly prices were converted to 30-minute resolution assuming constant price within each hour.
 
-Key Modeling Assumptions
+# Key Modeling Assumptions
 1. Curtailment Definition
 
 Curtailment is defined as:
@@ -46,10 +46,10 @@ Exposure occurs when realized energy is insufficient to meet the contracted leve
 
 Curtailment impact is decomposed into two components:
 
-Causal Curtailment Cost
+### Causal Curtailment Cost
 When sufficient wind was available to meet firm energy, but restriction caused deficit and PLD exposure.
 
-Incremental Risk Cost
+### Incremental Risk Cost
 When structural generation deficit already existed and curtailment further increased exposure.
 
 This separation allows identification of direct restriction impact versus marginal risk amplification.
@@ -96,7 +96,7 @@ Results reflect observed exposure, not regulatory or contractual mitigation mech
 
 This is a risk measurement exercise, not a regulatory or pricing recommendation.
 
-Objective
+# Objective
 
 The central question addressed:
 
