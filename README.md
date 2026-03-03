@@ -3,9 +3,13 @@ Exploratory analysis of the economic impact of curtailment on a 688 MW wind comp
 
 # Overview
 
-This study quantifies the economic impact of energy-related curtailment on a Brazilian wind generation asset in 2025 and estimates its implied effect on long-term PPA pricing.
+This study quantifies the economic impact of energy rationing on a Brazilian wind power generation asset in 2025 and estimates its implicit effect on the pricing of long-term power purchase agreements (PPAs).
 
-The objective is not to advocate cost transfer to consumers, but to measure economic exposure associated with non-controllable operational restrictions and translate it into a risk premium framework.
+The objective is not to advocate for the transfer of costs to consumers, but rather to measure the economic exposure associated with uncontrollable operational constraints and translate it into a risk premium model.
+
+It was observed that the economic impact of energy curtailment is not distributed homogeneously throughout the day, with greater concentration in certain periods, suggesting the nature of the event associated with high penetration of distributed generation, reinforcing the existence of more sensitive time windows from the point of view of risk and exposure.
+
+The severity of the simultaneous combination of curtailment and high PLD (Price of Energy in the Spot Market) could be observed through VaR (Value Added Tax) and CVaR (Cost Per Available Rate) risk metrics, which complement the information on the average pricing of costs obtained with curtailment.
 
 # Data Sources
 
