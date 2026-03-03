@@ -19,7 +19,7 @@ The analysis is based on publicly available 2025 operational and market data fro
 
 **CCEE** – hourly PLD (spot price) data
 
-Wind asset analyzed: "Conjunto Eólico Campo Largo e Conjunto Eólico Campo Largo II"
+Wind asset analyzed: "**Conjunto Eólico Campo Largo e Conjunto Eólico Campo Largo II**"
 
 Installed capacity: 688 MW
 
