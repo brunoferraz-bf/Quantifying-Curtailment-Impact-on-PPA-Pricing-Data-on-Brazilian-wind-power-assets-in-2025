@@ -15,15 +15,15 @@ The severity of the simultaneous combination of curtailment and high PLD (Price 
 
 The analysis is based on publicly available 2025 operational and market data from:
 
-ONS – semi-hourly wind generation and restriction data
+#### ONS – semi-hourly wind generation and restriction data
 
-CCEE – hourly PLD (spot price) data
+#### CCEE – hourly PLD (spot price) data
 
-Wind asset analyzed: "Conjunto Eólico Campo Largo e Conjunto Eólico Campo Largo II"
+#### Wind asset analyzed: "Conjunto Eólico Campo Largo e Conjunto Eólico Campo Largo II"
 
 Installed capacity: 688 MW
 
-Firm Energy (Garantia Física): 359 MWmed
+#### EPE - Firm Energy (Garantia Física): 359 MWmed
 
 Submarket: Northeast (NE)
 
