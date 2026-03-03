@@ -26,7 +26,7 @@ Submarket: Northeast (NE)
 PLD hourly prices were converted to 30-minute resolution assuming constant price within each hour.
 
 # Key Modeling Assumptions
-1. Curtailment Definition
+#### 1. Curtailment Definition
 
 Curtailment is defined as:
 
@@ -36,13 +36,13 @@ when a restriction is binding and the reference generation exceeds the realized 
 
 Only energy-related restrictions ("ENE") are considered.
 
-2. Firm Energy Framework
+#### 2. Firm Energy Framework
 
 The PPA is assumed to be structured over Firm Energy (359 MWmed).
 
 Exposure occurs when realized energy is insufficient to meet the contracted level, requiring settlement at PLD.
 
-3. Cost Decomposition
+#### 3. Cost Decomposition
 
 Curtailment impact is decomposed into two components:
 
@@ -54,12 +54,12 @@ When structural generation deficit already existed and curtailment further incre
 
 This separation allows identification of direct restriction impact versus marginal risk amplification.
 
-4. Energy Conversion
+#### 4. Energy Conversion
 
 All calculations are performed at 30-minute resolution.
 MWmed values are converted to MWh by dividing by 2.
 
-5. Risk Premium Estimation
+#### 5. Risk Premium Estimation
 
 The annual curtailment cost is divided by total contracted annual energy:
 
